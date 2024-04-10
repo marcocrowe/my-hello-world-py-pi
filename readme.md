@@ -81,7 +81,7 @@ The package is then available at [my-hello-world](https://pypi.org/project/my-he
 To install the package from [pypi.org](https://pypi.org), run the following command:
 
 ```bash
-pip install hello-world
+pip install my-hello-world
 ```
 
 #### Local installation
